@@ -1,8 +1,6 @@
 name: "Playwright JavaScript Tests"
-
 on:
   - push
-
 jobs:
   tests_e2e:
     name: Run end-to-end tests
